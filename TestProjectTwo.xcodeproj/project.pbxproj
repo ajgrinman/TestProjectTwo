@@ -23,14 +23,14 @@
 		FA01032A13FDF72600C56AFE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FA01032C13FDF72600C56AFE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FA01032E13FDF72600C56AFE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FA01033213FDF72600C56AFE /* TestProjectTwo-Info.plist */ = {isa = PBXFileReference; path = "TestProjectTwo-Info.plist"; sourceTree = "<group>"; };
+		FA01033213FDF72600C56AFE /* TestProjectTwo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestProjectTwo-Info.plist"; sourceTree = "<group>"; };
 		FA01033413FDF72600C56AFE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FA01033613FDF72600C56AFE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FA01033813FDF72600C56AFE /* TestProjectTwo-Prefix.pch */ = {isa = PBXFileReference; path = "TestProjectTwo-Prefix.pch"; sourceTree = "<group>"; };
-		FA01033913FDF72600C56AFE /* TestProjectTwoAppDelegate.h */ = {isa = PBXFileReference; path = TestProjectTwoAppDelegate.h; sourceTree = "<group>"; };
+		FA01033813FDF72600C56AFE /* TestProjectTwo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TestProjectTwo-Prefix.pch"; sourceTree = "<group>"; };
+		FA01033913FDF72600C56AFE /* TestProjectTwoAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestProjectTwoAppDelegate.h; sourceTree = "<group>"; };
 		FA01033A13FDF72600C56AFE /* TestProjectTwoAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestProjectTwoAppDelegate.m; sourceTree = "<group>"; };
 		FA01033D13FDF72600C56AFE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		FA01033F13FDF72600C56AFE /* TestProjectTwoViewController.h */ = {isa = PBXFileReference; path = TestProjectTwoViewController.h; sourceTree = "<group>"; };
+		FA01033F13FDF72600C56AFE /* TestProjectTwoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestProjectTwoViewController.h; sourceTree = "<group>"; };
 		FA01034013FDF72600C56AFE /* TestProjectTwoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestProjectTwoViewController.m; sourceTree = "<group>"; };
 		FA01034313FDF72600C56AFE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestProjectTwoViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
