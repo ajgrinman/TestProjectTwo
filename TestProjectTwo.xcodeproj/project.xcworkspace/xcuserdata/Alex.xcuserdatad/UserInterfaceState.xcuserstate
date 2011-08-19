@@ -1232,7 +1232,7 @@
 		<string>IDEActiveWorkspaceTabController</string>
 		<string>IDEWindowToolbarIsVisible</string>
 		<string>IDEWindowTabBarIsVisible</string>
-		<string>{{192, 4}, {1400, 974}}</string>
+		<string>{{192, 1}, {1400, 974}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2722,7 +2722,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>335413088.08250499</real>
+		<real>335413106.14231598</real>
 		<string>{0, 2334}</string>
 		<string>{653, 0}</string>
 		<string>-application:didFinishLaunchingWithOptions:</string>
