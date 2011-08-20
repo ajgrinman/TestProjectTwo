@@ -1072,7 +1072,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>335548392.732867</real>
+		<real>335548398.66931999</real>
 		<string>{0, 2204}</string>
 		<string>{1187, 0}</string>
 		<dict>
@@ -1289,11 +1289,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>98</integer>
+					<integer>97</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>97</integer>
+					<integer>98</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
@@ -1312,8 +1312,8 @@
 				</dict>
 			</array>
 		</dict>
+		<real>335548398.669438</real>
 		<string>{0, 1002}</string>
-		<real>335548392.73298103</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2717,7 +2717,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>335548392.73350602</real>
+		<real>335548398.66992497</real>
 		<string>{0, 2204}</string>
 		<string>{1187, 0}</string>
 		<string>-applicationWillResignActive:</string>
